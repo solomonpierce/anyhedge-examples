@@ -37,7 +37,7 @@ const AUTHENTICATION_TOKEN = '';
 
 
 // That's it. Save this file and run:
-// node quickstart.js
+// node examples/quickstart.js
 
 
 // *********************************************************************************************************************************************
