@@ -18,14 +18,14 @@
 // How much money to hedge, measured in US cents.
 const US_CENTS_TO_HEDGE = 500;
 
-// You'll need two Bitcoin Cash addresses to run this example.
+// You'll need two Bitcoin Cash private keys to run this example.
 // You can get these keys with a standard Electron Cash wallet.
 // For safety it is recommended to create a new wallet or use a testing wallet for this:
 //   1. Go to the Addresses tab
 //   2. Choose any address and take note of it so you can watch later for the automatic redemption to appear.
-//   2. Right click the address --> Private Key
-//   3. Copy the private key in the top box and paste it below as the HEDGE_WIF
-//   4. Repeat the above steps with a different address for the LONG_WIF
+//   3. Right click the address --> Private Key
+//   4. Copy the private key in the top box and paste it below as the HEDGE_WIF
+//   5. Repeat the above steps with a different address for the LONG_WIF
 const HEDGE_WIF = '';
 const LONG_WIF = '';
 
