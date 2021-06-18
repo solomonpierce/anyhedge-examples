@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@generalprotocols/anyhedge": "^0.14.2"
+  }
+}
